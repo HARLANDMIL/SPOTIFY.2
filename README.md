@@ -1,1 +1,3 @@
-# SPOTIFY.2
+# 🎵SPOTIFY.2🎶
+
+**TECH STACK**
