@@ -1,7 +1,9 @@
 import './App.css';
 //! CONNECTED FILES
 import { MainBox } from './Components/MainBox';
-import {LeftBox} from './Components/LeftBox';
+
+//!Discovered a ERROR FROM CO6 .NEEDS A ATTENTION 16 September
+import { LeftBox } from './Components/LeftBox';
 import {RightNavBar} from './Components/RightNavBar';
 
 function App() {
