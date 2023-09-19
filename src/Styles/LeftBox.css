@@ -1,0 +1,30 @@
+.LeftMenu{
+    width: 280px;
+    height: 100%;
+     min-height: 100vh;
+    background: rgba(34, 34, 34, 0.6);
+    backdrop-filter: blur(10px);
+    padding: 25px 30px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    }
+
+.logoImage{
+    color: #f1f1f1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logoImage i{
+    font-size: 30px;
+}
+
+.logoImage i:nth-of-type(2){
+    font-size: 20px;
+}
+
+h2{
+    font-size: 20px;
+}
+
